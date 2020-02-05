@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">exer2_arches_b4l</string>
+    <string name="which_disney_character_are_you">Which Disney Character Are You?</string>
+    <string name="start">START</string>
 </resources>
