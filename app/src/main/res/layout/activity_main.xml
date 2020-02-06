@@ -8,21 +8,22 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="410dp"
+        android:layout_height="400dp"
+        android:contentDescription="@string/todo"
+        app:srcCompat="@drawable/wallpaper" />
+
     <TextView
         android:id="@+id/question_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/which_disney_character_are_you"
+        android:fontFamily="@font/roboto_medium_italic"
+        android:text="@string/which_date_a_live_character_are_you"
         android:textAlignment="center"
         android:textColor="@android:color/black"
         android:textSize="@dimen/whichdisneyareyou" />
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:cropToPadding="true"
-        app:srcCompat="@drawable/snowwhite" />
 
     <Button
         android:id="@+id/start"
@@ -36,4 +37,16 @@
         android:layout_marginRight="10dp"
         android:layout_marginBottom="10dp"
         android:text="@string/start" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/disney_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/disneyView" />
+    </ScrollView>
+
 </LinearLayout>

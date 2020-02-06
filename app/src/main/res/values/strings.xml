@@ -2,4 +2,17 @@
     <string name="app_name">exer2_arches_b4l</string>
     <string name="which_disney_character_are_you">Which Disney Character Are You?</string>
     <string name="start">START</string>
+    <string name="picture">TODO</string>
+    <string name="disneyView">DATE A LIVE.
+        \n\nItsuka Shido was just another regular high school boy with a normal life.
+        \n\nBut, on the last day of the spring holidays before school started, a spacequake wrecked the town and a girl in armor appeared in front of him.
+        \n\nShido adoptive sister, Kotori, tells him that the girl is a "Special Disasterous Designated Creature: Spirit," which caused the spacequakes and revealed that she was the commander of the organization that dealt with Spirits, and ordered him to go out on a date with the Spirit in order to pacify her.
+        \n\nKotori tells him, "I do not ask you to defeat the Spirit. Just let her fall in love with you and save the world."
+        \nJust who the heck are you?
+        \nThere are 10 personalities. One of them is yours.
+        \n\nThe spirits that roam about, maybe you have the power to acquire such.
+        \n\nClick the start button, and find out more about your personality
+        </string>
+    <string name="todo">TODO</string>
+    <string name="which_date_a_live_character_are_you">Which Date A Live Character Are You?</string>
 </resources>
